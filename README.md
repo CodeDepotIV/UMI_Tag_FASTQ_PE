@@ -4,9 +4,7 @@ This shell script tags FASTQ headers of paired reads with unique molecular ident
 
 ## Usage
 
-This script is designed to be used in a Linux environment.
-
-To run the script, use the following command:
+This script is designed to be used in a Linux environment. To run the script, issue the following command:
 
 `bash umi_tag_header.sh -a <read1.fastq.gz> -b <read2.fastq.gz>`
 
