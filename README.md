@@ -1,6 +1,6 @@
 # UMI Tag Header
 
-This shell script tags FASTQ headers of paired reads with unique molecular identifiers (UMIs) without changing the read sequences or Phred quality scores.
+This shell script tags FASTQ headers of paired reads with unique molecular identifiers (UMIs) without changing the read sequences or Phred quality scores (trimming required in separate step) and is intended for use with paired-end FASTQ files created using the Lexogen CORALL Total RNA-Seq V2 kit.
 
 ## Usage
 
