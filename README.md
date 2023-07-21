@@ -16,7 +16,7 @@ The `-a` and `-b` options are used to specify the input files. The script will g
 
 ## Testing 
 
-This shell script has been tested and confirmed to work on CentOS 7. To test the script, download the `subA.fq.gz` and `subB.fq.gz` files in the **test_data** folder to a suitable directory and execute:
+This shell script has been tested and confirmed to work on CentOS 7 and Ubuntu. To test the script, download the `subA.fq.gz` and `subB.fq.gz` files in the **test_data** folder to a suitable directory and execute:
 
 `bash umi_tag_header.sh - a subA.fq.gz -b subB.fq.gz`
 
